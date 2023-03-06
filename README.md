@@ -11,7 +11,7 @@ Dessa forma, a máquina estará pronta para uso imediato assim que o script for 
 
  Esse ["**criar_user.sh**"](https://github.com/magnoolivee/dio-desafio-linux-projeto1-iac/blob/main/criar_user.sh) sript gera quatro usuários convidados, com senhas criptografadas, e define as senhas para expirarem no primeiro login. 
 
-Já ["**iac1.sh**"](https://github.com/magnoolivee/dio-desafio-linux-projeto1-iac/blob/main/iac1.sh) esse script cria diversos usuários em diferentes grupos, especifica permissões de acesso para diferentes diretórios e define permissões para os mesmos. Ambos os scripts mostram mensagens de status na saída padrão para informar sobre o andamento do processo.
+Já esse ["**iac1.sh**"](https://github.com/magnoolivee/dio-desafio-linux-projeto1-iac/blob/main/iac1.sh) script cria diversos usuários em diferentes grupos, especifica permissões de acesso para diferentes diretórios e define permissões para os mesmos. Ambos os scripts mostram mensagens de status na saída padrão para informar sobre o andamento do processo.
 
 Este repositório é minha entrega como parte do projeto do curso.
 ###  [Plataforma de curos DIO](https://web.dio.me/)
